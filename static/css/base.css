@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #fff;
+    background-color: #F2EFEA;
     height: calc(100vh - 164px);
     color: #555;
     font-family: 'Nunito Sans', sans-serif;
@@ -53,6 +53,10 @@ body {
 
 .border-black {
     border: 1px solid black !important;
+}
+
+.bg-black {
+    background: #000 !important;
 }
 
 /* -------------------------------- Media Queries */
